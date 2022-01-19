@@ -2,6 +2,7 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 
+/* Hero Section */
 #hero-section{
     background-image: url("../img/bg-hero.jpg");
     background-repeat: no-repeat;
@@ -20,6 +21,7 @@ body{
     margin: auto;
 }
 
+/* Hero section btn */
 #game-btn{
     margin-top: 25rem;
     align-items: center;
